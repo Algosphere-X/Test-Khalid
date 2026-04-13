@@ -11,5 +11,8 @@ int main()
     cin.tie(NULL);
     cout << "hello world!";
     
+    int y=2009;
+    cout << y;
+
     return 0;
 }
